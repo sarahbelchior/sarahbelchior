@@ -25,7 +25,7 @@ Tecnologias do projeto: Python FastAPI SQLite JavaScript HTML CSS REST APIs Andr
 
 Situação: protótipo em desenvolvimento e testes. O Android ainda não é uma versão publicada em loja; funcionalidades de saúde não são sistemas clínicos validados.
 
-[Conhecer a Nora](https://github.com/sarahbelchior/nora-case-study)
+🔗[Conhecer a Nora](https://github.com/sarahbelchior/nora-case-study)
 
 🎓 OnClass — Projeto científico de presença acadêmica com QR Code
 Participei do projeto científico OnClass, voltado à presença acadêmica, contribuindo para a documentação, o relatório e a proposta de validação por QR Code com conferência complementar da rede institucional. Também desenvolvi, como estudo posterior, um protótipo web de demonstração com painel do professor e do estudante, API, persistência de dados e testes.
