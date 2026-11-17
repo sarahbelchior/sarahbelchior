@@ -52,6 +52,7 @@ O estudo utiliza documentos e fontes públicas do IBGE, DATASUS/SUS e da Secreta
 
 🛠️ Tecnologias e habilidades desenvolvidas
 Python · FastAPI · SQLite · JavaScript · HTML · CSS · APIs REST · Android Studio · Debugging · Testes · Git/GitHub em evolução · UX · Acessibilidade digital
+
 🌱 O que estou aprofundando
 Swift e SwiftUI, desenvolvimento nativo no ecossistema Apple, Git colaborativo, programação assíncrona, engenharia de software e DevOps.
 Sobre meu processo: utilizo documentação, experimentação, testes e ferramentas de IA como apoio em partes do desenvolvimento. Sou responsável por conduzir meus projetos, tomar decisões sobre as funcionalidades, aplicar mudanças, verificar resultados e continuar aprendendo os fundamentos técnicos.
