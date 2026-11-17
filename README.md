@@ -1,12 +1,14 @@
 <div align="center">Olá, sou Sarah Belchior! 👋
-Desenvolvedora de software | Projetos web e mobile | Acessibilidade | Pesquisa científica
 
+  Desenvolvedora de software | Projetos web e mobile | Acessibilidade | Pesquisa científica
 Desenvolvo soluções tecnológicas a partir de problemas reais, combinando programação, pesquisa, testes e experiência do usuário.
 </div>👩‍💻 Sobre mim
 Sou desenvolvedora em formação e atuo na construção de aplicações web e protótipos mobile. Tenho experiência prática em desenvolvimento e evolução de software, integração de APIs, persistência de dados, configuração de ambientes, identificação e correção de problemas, além de planejamento e testes de funcionalidades.
 
 Meu interesse é criar produtos que façam diferença na vida das pessoas, especialmente nas áreas de acessibilidade, organização pessoal, educação e saúde digital. Trabalho de forma interativa: identifico uma necessidade, desenvolvo uma solução, testo, corrijo falhas e melhoro a experiência.
+
 🚀 Projetos em destaque
+
 💜 Nora — Assistente digital acessível | Projeto de desenvolvimento de software
 Desenvolvimento e programação: Sarah Belchior
 
