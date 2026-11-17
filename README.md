@@ -50,7 +50,7 @@ O estudo utiliza documentos e fontes públicas do IBGE, DATASUS/SUS e da Secreta
 
 🔗 [Conhecer a pesquisa](https://github.com/sarahbelchior/pesquisa-tea-ceara)
 
-🛠️ Tecnologias e habilidades desenvolvidas
+🛠️ Tecnologias e habilidades desenvolvidas (Aprendizado em progresso não concluido) 
 Python · FastAPI · SQLite · JavaScript · HTML · CSS · APIs REST · Android Studio · Debugging · Testes · Git/GitHub em evolução · UX · Acessibilidade digital
 
 🌱 O que estou aprofundando
